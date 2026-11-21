@@ -24,7 +24,7 @@ POEM = (
     "Stopping was not surrender \u2014\n"
     "it was the first choice I kept:\n"
     "to stay, and let the waiting\n"
-    "belong to me, not the wind.\n"
+    "be mine, not the wind's.\n"
 )
 
 
